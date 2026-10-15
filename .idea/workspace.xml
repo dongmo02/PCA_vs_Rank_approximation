@@ -4,26 +4,100 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f112435-4213-45ae-9d73-23e04b34d4d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="9f112435-4213-45ae-9d73-23e04b34d4d4" name="Changes" comment="Compare">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1,
-  "fromUser": false
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dongmo02&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:dongmo02/PCA_vs_Rank_approximation.git&quot;,
+    &quot;accountId&quot;: &quot;060b2b27-634b-4868-a5ac-bc65abe798c4&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000000368767" />
+      <entry key="S5" value="1.0000670966377712" />
+      <entry key="S10" value="1.008191253843709" />
+      <entry key="S30" value="1.2027853880512331" />
+      <entry key="S60" value="1.5238579715282157" />
+      <entry key="M2" value="2.412753140688604" />
+      <entry key="M5" value="7.203861044331631" />
+      <entry key="M10" value="19.479418280613295" />
+      <entry key="M15" value="34.29586091940821" />
+      <entry key="M30" value="80.62057296137296" />
+      <entry key="H1" value="156.8322773847826" />
+      <entry key="H2" value="251.47744274149835" />
+      <entry key="H4" value="338.13577716502294" />
+      <entry key="D1" value="504.15088395400636" />
+      <entry key="W1" value="1320.2533227049673" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="8.682058027251376E-222" />
+      <entry key="MS500" value="6.133728332387919E-45" />
+      <entry key="S2" value="8.849752710812945E-12" />
+      <entry key="S5" value="3.793181706819104E-5" />
+      <entry key="S10" value="0.0063563355348012366" />
+      <entry key="S30" value="0.2814072513726823" />
+      <entry key="S60" value="0.9802131788416315" />
+      <entry key="M2" value="2.236567029809688" />
+      <entry key="M5" value="5.839871542105109" />
+      <entry key="M10" value="13.580403153454819" />
+      <entry key="M15" value="21.145172339572436" />
+      <entry key="M30" value="38.96455801497846" />
+      <entry key="H1" value="62.552748120239634" />
+      <entry key="H2" value="90.05374886149538" />
+      <entry key="H4" value="115.17052695745575" />
+      <entry key="D1" value="166.6472929610335" />
+      <entry key="W1" value="409.4650131871272" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.03326156820166749" />
+      <entry key="MS500" value="0.5062774036752464" />
+      <entry key="S2" value="0.8435234025689462" />
+      <entry key="S5" value="0.934293863957028" />
+      <entry key="S10" value="0.980395127462637" />
+      <entry key="S30" value="1.4634634435948666" />
+      <entry key="S60" value="2.481517931023502" />
+      <entry key="M2" value="4.62301261333887" />
+      <entry key="M5" value="13.007111896198579" />
+      <entry key="M10" value="33.01271570766524" />
+      <entry key="M15" value="55.38917986238568" />
+      <entry key="M30" value="119.52971204262946" />
+      <entry key="H1" value="219.33170297385564" />
+      <entry key="H2" value="341.48687201429243" />
+      <entry key="H4" value="453.27549258535356" />
+      <entry key="D1" value="670.7894772743665" />
+      <entry key="W1" value="1729.7147982570962" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3Jz23THt3l7hxvD7JOC6pfGBIpI" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,7 +106,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.diasporama.executor": "Run",
+    "Python.draw.executor": "Run",
+    "Python.event.executor": "Run",
+    "Python.firstcode.executor": "Run",
+    "Python.game.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.newone.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.testen.executor": "Run",
+    "Python.trach.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -40,8 +123,15 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
@@ -59,14 +149,65 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1790649377206</updated>
-      <workItem from="1790649378228" duration="96000" />
+      <workItem from="1790649378228" duration="129414000" />
+      <workItem from="1791976476851" duration="9049000" />
     </task>
+    <task id="LOCAL-00001" summary="Version1">
+      <option name="closed" value="true" />
+      <created>1790649550103</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1790649550103</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Compare">
+      <option name="closed" value="true" />
+      <created>1791150195768</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1791150195768</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Compare">
+      <option name="closed" value="true" />
+      <created>1791150492070</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1791150492070</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Version1" />
+    <MESSAGE value="Compare" />
+    <option name="LAST_COMMIT_MESSAGE" value="Compare" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonProject1$main.coverage" NAME="main Coverage Results" MODIFIED="1790649399595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject1$diasporama.coverage" NAME="diasporama Coverage Results" MODIFIED="1791842247022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/site-packages/matplotlib" />
+    <SUITE FILE_PATH="coverage/PythonProject1$game.coverage" NAME="game Coverage Results" MODIFIED="1792045145490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/site-packages/matplotlib" />
+    <SUITE FILE_PATH="coverage/PythonProject1$event.coverage" NAME="event Coverage Results" MODIFIED="1791448249489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/site-packages/matplotlib" />
+    <SUITE FILE_PATH="coverage/PythonProject1$draw.coverage" NAME="draw Coverage Results" MODIFIED="1791450192634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/site-packages/matplotlib" />
+    <SUITE FILE_PATH="coverage/PythonProject1$firstcode.coverage" NAME="firstcode Coverage Results" MODIFIED="1791150144971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject1$main.coverage" NAME="main Coverage Results" MODIFIED="1790654006565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject1$newone.coverage" NAME="newone Coverage Results" MODIFIED="1791278406500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/site-packages/matplotlib" />
+    <SUITE FILE_PATH="coverage/PythonProject1$testen.coverage" NAME="testen Coverage Results" MODIFIED="1791977796473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/site-packages/matplotlib" />
+    <SUITE FILE_PATH="coverage/PythonProject1$test.coverage" NAME="test Coverage Results" MODIFIED="1791458580039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/site-packages/matplotlib" />
+    <SUITE FILE_PATH="coverage/PythonProject1$trach.coverage" NAME="trach Coverage Results" MODIFIED="1791472611434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/site-packages/matplotlib" />
   </component>
 </project>
